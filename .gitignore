@@ -1,0 +1,15 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Gradle
+.gradle/
+build/
+
+# Node (future frontend)
+node_modules/
+dist/
+
+# OS
+.DS_Store
+Thumbs.db
